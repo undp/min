@@ -4,6 +4,7 @@ logs
 npm-debug.log*
 
 # Runtime data
+data/*.json
 pids
 *.pid
 *.seed
@@ -31,3 +32,6 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+# local config
+config.json
