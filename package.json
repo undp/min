@@ -1,0 +1,23 @@
+{
+  "name": "min",
+  "version": "0.0.1",
+  "description": "Rapid Reporting Twitter scraper",
+  "main": "index.js",
+  "dependencies": {
+    "sanitize-filename": "^1.6.0",
+    "twitter-node-client": "^0.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/undp/min.git"
+  },
+  "author": "Jura Khrapunov <jura.khrapunov@undp.org> (http://www.undp.org)",
+  "bugs": {
+    "url": "https://github.com/undp/min/issues"
+  },
+  "homepage": "https://github.com/undp/min#readme"
+}

@@ -1,0 +1,13 @@
+{
+  "debug": true,
+  "twitter": {
+    "consumerKey": "",
+    "consumerSecret": "",
+    "accessToken": "",
+    "accessTokenSecret": ""
+  },
+  "hashtag": "",
+  "handlewhitelist": [],
+  "timeout": 3600000,
+  "count": 100
+}
